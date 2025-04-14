@@ -46,7 +46,7 @@
 ## Introdução
 
 Aplicativo desenvolvido em parceria com a empresa **Serejo RSVP**.  
-O app tem a função de validação de convites por QR Code — códigos esses que foram previamente gerados pela plataforma **QrSend** (em breve o README dessa aplicação).  
+O app tem a função de validação de convites por QR Code — Qrs esses que foram previamente gerados pela plataforma **QrSend** (em breve o README dessa aplicação).  
 
 Além disso, o app exibe gráficos de monitoramento do evento, acessíveis por meio do login de administrador.
 
