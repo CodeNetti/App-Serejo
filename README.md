@@ -12,6 +12,11 @@
             Built with Flutter and Firebase.
 </p>
 
+<p>
+    
+  Em ajuste
+      
+</p>  
 <p align="center">
      
   <a href="">
@@ -19,16 +24,16 @@
   </a>
     
 </p>
-
-<p align="center">
-  <p>
+<p>
+    
   Em ajuste
- 
+      
+</p> 
+<p align="center">
   <a href="">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
-  </a>
-  </a>
-   </p>
+ 
+</p>
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
