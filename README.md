@@ -75,7 +75,7 @@ Aqui estão algumas das funções disponíveis no SerejoApp:
 ## Stacks
 
 - **Flutter**: Framework para construção de aplicativos móveis (iOS/Android)  
-- **Firebase**: Backend, autenticação e banco de dados (Cloud Firestore)  
+- **Firebase**: Autenticação e banco de dados (Cloud Firestore)  
 
 ---
 
