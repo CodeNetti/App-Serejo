@@ -12,7 +12,7 @@
             Built with Flutter and Firebase.
 </p>
 
-<p>
+<p align="center">
     
   Em ajuste
       
@@ -24,7 +24,7 @@
   </a>
     
 </p>
-<p>
+<p align="center">
     
   Em ajuste
       
