@@ -8,26 +8,29 @@
 <br>
 
 <p align="center">
-  AppSerejo / Leitor de QrCodes / Validação de Convites.<br>
+         AppSerejo / Validador de QrCodes / RSVP.<br>
             Built with Flutter and Firebase.
 </p>
 
 <p align="center">
+      <p align="center">
+      Em ajuste
+      </p>
   <a href="">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
-      <p align="center">
-      Em ajuste
+    
 </p>
 
 <p align="center">
+  <p align="center">
+  Em ajuste
+  </p>
   <a href="">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
   </a>
-  <p align="center">
-  Em ajuste
-  </p>
+  
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -44,7 +47,8 @@
 
 ## Introduction
 
-Aplicativo desenvolvido em parceria com a empresa Serejo RSVP, o app consiste em ser um validador de convites Qrcodes, gráficos gerados baseado no total de convidados presentes/ausentes, acessível no painel de administrador para o dono do evento.
+Aplicativo desenvolvido em parceria com a empresa Serejo RSVP.<br>
+O app tem a função de validação de convites Qrcode, Qrcodes esses que foram gerados anteriormente pela Plataformna QrSend, (Em breve o Redme da aplicação), e também exibe gráficos de monitoramento do evento<br>acessiveis pelo login de administrador do evento.
 
 **Disponível para iOS e Android.**
 
@@ -55,7 +59,7 @@ Aplicativo desenvolvido em parceria com a empresa Serejo RSVP, o app consiste em
 
 Algumas coisas que você pode fazer com SerejoApp:
 
-*Validação de Convites 
+* Validação de Convites 
 * Gráficos de acompanhamneto do evento
 * Exportar gráficos
 * Adição Manual de convidados
@@ -69,11 +73,10 @@ Algumas coisas que você pode fazer com SerejoApp:
 
 
 
-## Technologys
+## Stacks
  
-
-- **Flutter**: Framework para construção de aplicativos móveis IOS/Android
-- **Firebase**: Database
+**Flutter**: Framework para construção de aplicativos móveis IOS/Android
+**Firebase**: Database
 
 
 ## Muito Obrigado!!
