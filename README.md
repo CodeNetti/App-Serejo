@@ -1,85 +1,82 @@
-<h1 align="center">SerejoApp</h1> <br>
-<p align="center">
-    <img alt="SerejoApp" title="SerejoApp" src="https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/Icon.png" width="450">
-  </a>
-</p>
-<br>
-<br>
-<br>
+<h1 align="center">SerejoApp</h1>
 
 <p align="center">
-         AppSerejo / QrCode / RSVP.<br>
-            Built with Flutter and Firebase.
+  <img alt="SerejoApp" title="SerejoApp" src="https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/Icon.png" width="450">
 </p>
 
 <p align="center">
-    
-  Em ajuste
-      
-</p>  
+  AppSerejo / QR Code / RSVP<br>
+  Desenvolvido com Flutter e Firebase.
+</p>
+
 <p align="center">
-     
-  <a href="">
+  <strong>Em breve</strong>
+</p>
+
+<p align="center">
+  <a href="#">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
-    
 </p>
+
 <p align="center">
-    
-  Em ajuste
-      
-</p> 
+  <strong>Em breve</strong>
+</p>
+
 <p align="center">
-  <a href="">
+  <a href="#">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
- 
+  </a>
 </p>
-</p>
+
+---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
+- [Introdução](#introdução)
+- [Funcionalidades](#funcionalidades)
 - [Build Process](#build-process)
-- [Technologys](#Technologys)
-
+- [Stacks](#stacks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Introduction
+## Introdução
 
-Aplicativo desenvolvido em parceria com a empresa Serejo RSVP.<br>
-O app tem a função de validação de convites Qrcode, Qrcodes esses que foram gerados anteriormente pela Plataformna QrSend, (Em breve o Redme da aplicação), e também exibe gráficos de monitoramento do evento<br>acessiveis pelo login de administrador do evento.
+Aplicativo desenvolvido em parceria com a empresa **Serejo RSVP**.  
+O app tem a função de validação de convites por QR Code — códigos esses que foram previamente gerados pela plataforma **QrSend** (em breve o README dessa aplicação).  
+
+Além disso, o app exibe gráficos de monitoramento do evento, acessíveis por meio do login de administrador.
 
 **Disponível para iOS e Android.**
 
 <p align="center">
-  <img src = "https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/Inicial.png">
-
-## Features
-
-Algumas coisas que você pode fazer com SerejoApp:
-
-* Validação de Convites 
-* Gráficos de acompanhamneto do evento
-* Exportar gráficos
-* Adição Manual de convidados
-  
-<p align="center">
-  <img src = "https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/androidtemplate.png">
-</p>
-<p align="center">
-  <img src = "https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado//iphonetemplate.png">
+  <img src="https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/Inicial.png">
 </p>
 
+## Funcionalidades
 
+Aqui estão algumas das funções disponíveis no SerejoApp:
+
+- ✅ Validação de Convites por QR Code  
+- 📊 Gráficos de acompanhamento do evento  
+- 📁 Exportação de gráficos  
+- ➕ Adição manual de convidados  
+
+<p align="center">
+  <img src="https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/androidtemplate.png">
+</p>
+<p align="center">
+  <img src="https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/iphonetemplate.png">
+</p>
 
 ## Stacks
- 
-**Flutter**: Framework para construção de aplicativos móveis IOS/Android
-**Firebase**: Database
 
+- **Flutter**: Framework para construção de aplicativos móveis (iOS/Android)  
+- **Firebase**: Backend, autenticação e banco de dados (Cloud Firestore)  
 
-## Muito Obrigado!!
+---
+
+## Muito Obrigado! 🙌
