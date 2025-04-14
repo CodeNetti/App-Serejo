@@ -13,9 +13,7 @@
 </p>
 
 <p align="center">
-        <p>
-      Em ajuste
-      </p>
+     
   <a href="">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
