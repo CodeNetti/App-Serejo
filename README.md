@@ -1,6 +1,6 @@
 <h1 align="center">SerejoApp</h1> <br>
 <p align="center">
-    <img alt="SerejoApp" title="SerejoApp" src="https://github.com/CodeNetti/SerejoApp/blob/IMAGENS/Templates/SerejoAPP/Renderizado/Icon.png" width="450">
+    <img alt="SerejoApp" title="SerejoApp" src="https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/Icon.png" width="450">
   </a>
 </p>
 <br>
@@ -49,7 +49,7 @@ Aplicativo desenvolvido em parceria com a empresa Serejo RSVP, o app consiste em
 **Disponível para iOS e Android.**
 
 <p align="center">
-  <img src = "https://github.com/CodeNetti/SerejoApp/blob/IMAGENS/Templates/SerejoAPP/Renderizado/Inicial.png">
+  <img src = "https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/Inicial.png">
 
 ## Features
 
@@ -61,10 +61,10 @@ Algumas coisas que você pode fazer com SerejoApp:
 * Adição Manual de convidados
   
 <p align="center">
-  <img src = "https://github.com/CodeNetti/SerejoApp/blob/IMAGENS/Templates/SerejoAPP/Renderizado/androidtemplate.png">
+  <img src = "https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado/androidtemplate.png">
 </p>
 <p align="center">
-  <img src = "https://github.com/CodeNetti/SerejoApp/blob/IMAGENS/Templates/SerejoAPP/Renderizado/iphonetemplate.png">
+  <img src = "https://github.com/CodeNetti/App-Serejo/blob/main/Renderizado//iphonetemplate.png">
 </p>
 
 
