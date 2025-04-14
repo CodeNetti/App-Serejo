@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-      <p align="center">
+        <p>
       Em ajuste
       </p>
   <a href="">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <p align="center">
+  <p>
   Em ajuste
   </p>
   <a href="">
