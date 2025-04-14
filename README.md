@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-         AppSerejo / Validador de QrCodes / RSVP.<br>
+         AppSerejo / QrCode / RSVP.<br>
             Built with Flutter and Firebase.
 </p>
 
